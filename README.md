@@ -7,7 +7,7 @@ Implementation of LeNet in PyTorch for MNIST classification
    ```
    conda create -n pytorch.v1.3.0 python=3.7
    conda activate pytorch.v1.3.0
-   conda install pytorch==1.3.0 torchvision==0.4.1 cudatoolkit=1.0 -c pytorch
+   conda install pytorch==1.3.0 torchvision==0.4.1 cudatoolkit=10.0 -c pytorch
    pip install matplotlib
    ```
  - Clone this repository

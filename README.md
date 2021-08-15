@@ -16,19 +16,19 @@ Implementation of LeNet in PyTorch for MNIST classification
    ```
 
 ## Training
- - Run the training command below
+ - Run the command below
    ```
    python train.py --lr=0.01 --epoch=10
    ```
 
 ## Evaluation
- - Run the evaluation command below
+ - Run the command below
    ```
    python inference.py --weight_path=weights/2021-08-10-19-19.pth
    ```
 
-## Test
- - Run the test command below
+## Application
+ - Run the command below
    ```
    python lenet_classifier.py
    ```
